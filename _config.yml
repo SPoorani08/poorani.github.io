@@ -102,6 +102,12 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - label: "GitHub"
+      url: "https://github.com/SPoorani08"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/pooranisubramaniam"
+    - label: "Portfolio"
+      url: "https://github.com/SPoorani08/poorani.github.io"
 
 # Analytics
 analytics:
