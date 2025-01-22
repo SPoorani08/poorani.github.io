@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Poorani - Data Scientist"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Poorani"
 description              : "Showcasing my data science projects, skills, and achievements."
 url                      : # the base hostname & protocol for your site e.g. "https://spoorani08.github.io/poorani.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : spoorani08@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
